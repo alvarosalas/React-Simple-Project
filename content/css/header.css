@@ -1,0 +1,17 @@
+.Header{
+  height: 60px;
+  width: 100%;
+  background: #292c2d;
+}
+
+.header-link-fifa{
+  color: yellow;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.header-link-menu{
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}

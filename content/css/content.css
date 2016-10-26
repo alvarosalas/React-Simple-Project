@@ -1,0 +1,89 @@
+.Container{
+  margin-top:60px;
+}
+
+.bg-image{
+  background-image: url(../images/fifa17.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.bg-image-CL{
+  background-image: url(../images/bestPlayer.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 300px;
+}
+
+.bg-image-play{
+  background-image: url(../images/play.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.bg-image-sign-in{
+  background-image: url(../images/Electronic-Arts-EA.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.padding-left-15{
+  padding-left: 15px;
+}
+
+.opacity-container{
+  width: 100%;
+  height: 160px;
+  background: white;
+  opacity: 0.3;
+}
+
+.top-285{
+  top: 285px;
+}
+
+input{
+  background: transparent;
+  color:white;
+  border: 2px solid white;
+  height: 30px;
+  padding-left: 15px;
+  border-radius: 17px;
+  outline: none;
+  font-family: 'ea_sports_covers_scbold';
+}
+
+button{
+  width: 145px;
+  background: transparent;
+  color:white;
+  border: 2px solid white;
+  height: 30px;
+  padding-left: 15px;
+  border-radius: 17px;
+  outline: none;
+  font-family: 'ea_sports_covers_scbold';
+}
+
+::-webkit-input-placeholder {
+   color: white;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: white;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: white;
+}
+
+:-ms-input-placeholder {
+   color: white;
+}

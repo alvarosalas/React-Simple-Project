@@ -1,0 +1,19 @@
+{
+  "name": "atg-code",
+  "version": "1.0.0",
+  "description": "code example",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot --history-api-fallback"
+  },
+  "author": "Alvaro Salas",
+  "license": "ISC",
+  "dependencies": {
+    "history": "^3.2.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^3.0.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
